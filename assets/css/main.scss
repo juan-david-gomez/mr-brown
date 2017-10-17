@@ -1,3 +1,9 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+// Add your styles here
+@import 'color';
 @import 'normalize';
 @import 'syntax';
 
@@ -18,7 +24,7 @@ body {
 
 .page-wrap {
   padding: 0 1rem 2rem;
-  margin-top: 12rem;
+  margin-top: 7rem;
   margin-bottom: 3rem;
 }
 
@@ -71,7 +77,7 @@ blockquote {
 .site-header {
   position: fixed;
   text-align: center;
-  background-color: rgba(76, 42, 42, 0.95);
+  background-color: $bg_header;
   box-shadow: 0 2px 5px rgba(0,0,0,.26);
   top: 0;
   left: 0;
@@ -80,31 +86,23 @@ blockquote {
 }
 
 .header-content {
-  padding: 1rem 0 1rem;
+  padding: 0.5rem 0 0.5rem;
 }
 
 .logo {
   text-align: center;
 
   .logo-link {
-    font-family: 'Fascinate Inline', cursive;
+    font-family: 'Neucha', cursive;
     display: inline-block;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 3rem;
-    color: #b2b2b2;
+    color: $text_header;
     transition: all .3s;
 
     &:hover {
-      color: rgba(245, 222, 179, 0.75);
-    }
-  }
-
-  .hat {
-    width: 4rem;
-
-    path {
-      fill: #6f5959;
+      color: $text_header_hover;
     }
   }
 }
@@ -114,7 +112,7 @@ blockquote {
   position: fixed;
   width: 100%;
   height: 100%;
-  background-color: rgba(76, 42, 42, 0.82);
+  background-color: $bg_menu;
   z-index: 50;
   right: 0;
   top: 0;
@@ -270,7 +268,7 @@ blockquote {
 .flex-grid {
   flex: 1;
   column-count: auto;
-  column-width: 420px;
+  column-width: 300px;
   column-gap: 1rem;
 }
 
@@ -488,6 +486,11 @@ blockquote {
 }
 
 // Media request
+@media  screen and (min-width: 320px) and (max-width: 800px) {
+    .page-wrap {
+      margin-top: 11rem;
+    }
+}
 @media screen and (min-width: 500px) {
     html {
         font-size:calc(15px + 5 * ((100vw - 500px) / 900))
