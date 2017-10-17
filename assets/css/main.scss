@@ -29,7 +29,7 @@ body {
 }
 
 a {
-  color: #949090;
+  color: $color_link;
   text-decoration: none;
   transition: color 0.2s linear;
 
@@ -353,9 +353,9 @@ blockquote {
 .footer {
   display: flex;
   flex-direction: column;
-  background-color: #38231f;
+  background-color: $bg_footer;
   color: rgba(255,255,255,0.3);
-  border-top: 8px solid rgba(0,0,0,0.5);
+  border-top: 8px solid $bg_footer_border;
   margin-top: -8px;
   padding: 4rem 3rem;
 }
@@ -457,7 +457,7 @@ blockquote {
   margin-bottom: 1rem;
 
   h1 {
-    color: #6D4C41;
+    color: $title_post;
   }
 
   img {
