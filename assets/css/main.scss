@@ -28,6 +28,12 @@ body {
   margin-bottom: 3rem;
 }
 
+.footer, .site-head {
+  a {
+    color: $color_link_with_bg;
+  }    
+}
+
 a {
   color: $color_link;
   text-decoration: none;
@@ -38,6 +44,7 @@ a {
   }
 
 }
+
 
 // Syntax
 .highlight {
