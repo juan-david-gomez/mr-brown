@@ -8,6 +8,6 @@ img: avatar.jpg
 author: Juan David Gómez Escobar
 ---
 
-## Avatar en Voki
+[Ver Avatar](http://tinyurl.com/yavalnwg)
 
 {% include avatar.html %}
