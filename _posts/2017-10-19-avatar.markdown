@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Avatar de Presentación"
-description: Información de prueba para crear la pagina con la reflexion de la tematica
-date:   2017-10-19
+description: Avatar de presentación del blog
+date:   2017-10-19
 categories: 
 img: avatar.jpg
 author: Juan David Gómez Escobar
