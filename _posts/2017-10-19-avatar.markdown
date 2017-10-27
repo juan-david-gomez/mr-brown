@@ -4,7 +4,7 @@ title:  "Avatar de Presentación"
 description: Información de prueba para crear la pagina con la reflexion de la tematica
 date:   2017-10-19
 categories: 
-img: dh-2.jpg
+img: avatar.jpg
 author: Juan David Gómez Escobar
 ---
 
