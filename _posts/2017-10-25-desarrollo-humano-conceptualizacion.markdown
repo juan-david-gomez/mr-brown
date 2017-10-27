@@ -10,25 +10,16 @@ author: Juan David Gómez Escobar
 
 ## LO QUE APRENDÍ/ASIMILÉ
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, fugiat nisi aliquid, maxime cupiditate incidunt voluptates magnam possimus, modi natus vel sequi corporis. Libero animi vel impedit, voluptatem architecto sunt!
+Tal como la guía lo indica se inicia con el concepto de **Desarrollo Humano**, siendo este el proceso mediante el cual se aumenta el numero de opciones y oportunidades que como humanos podemos tener durante nuestras vidas.
 
-Ea voluptatum commodi fugit illum suscipit fugiat amet quisquam nemo, placeat impedit hic, omnis earum beatae voluptates, nostrum inventore accusamus. Ad ab, quae aperiam, et animi aspernatur! Officia pariatur, vel.
+Este concepto tiene una connotación mas profunda e integral al desarrollo al cual estamos acostumbrados, como desarrollo económico,  político e incluso social, sin embargo si bien esto afecta directamente el desarrollo humano, este es en si mismo propio de nuestro ser, incluyendo factores externos o ambientales como internos y filosóficos.
 
-Quam possimus adipisci tenetur nihil saepe cum delectus dolores animi dolorem commodi, laborum est accusamus molestiae porro. Dolor ducimus similique, incidunt assumenda et sunt reprehenderit perferendis illum impedit consequuntur deserunt.
-
-Doloremque nam expedita optio repellendus, suscipit, sit veritatis aliquam aspernatur, inventore vero dolorem nobis! Voluptate, sequi eum fugit nam. Sunt aspernatur ut perferendis placeat amet excepturi, nesciunt nihil maiores culpa!
-
-Eos alias maiores perspiciatis voluptatibus, ex distinctio perferendis in voluptatem rem? Facere at, dicta consequatur laborum! Reiciendis nisi similique autem, et, mollitia quos corporis atque velit id adipisci, eius perspiciatis.
-
+Partiendo de todo lo anterior, se han venido desarrollando diferentes definiciones, teorías y estudios  con el objetivo de poner en practica este concepto, que mas que una simple definición es un llamado a poner un objetivo común el cual nos permita como sociedad unir esfuerzos para cumplir dichas metas; dentro de estos intentos por alinearnos se encuentra el programa de las Naciones Unidas por definir problemas del milenio e indicadores de desarrollo humano.
 
 ## APLICACIÓN PRÁCTICA
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, fugiat nisi aliquid, maxime cupiditate incidunt voluptates magnam possimus, modi natus vel sequi corporis. Libero animi vel impedit, voluptatem architecto sunt!
+Como se mencionó en el apartado anterior uno de los aprendizajes mas claros fueron los esfuerzos que hoy se realizan para poner en practica el concepto de **Desarrollo Humano**, entre ellos podemos encontrar diferentes iniciativas internaciones y gubernamentales, sin embargo el aspecto mas practico lo encontramos en nuestra cotidianidad.
 
-Ea voluptatum commodi fugit illum suscipit fugiat amet quisquam nemo, placeat impedit hic, omnis earum beatae voluptates, nostrum inventore accusamus. Ad ab, quae aperiam, et animi aspernatur! Officia pariatur, vel.
+Como individuos tenemos muchas dimensiones las cuales atendemos diariamente, podemos aplicar el concepto de **Desarrollo Humano** a cada uno de estas dimensiones, enfocando cada decisión a posibilidad de aumentar las oportunidades y posibilidades, esto matizándolo con el concepto de desarrollo sostenible, ya que este permite mantener un equilibrio entre lo que hacemos por desarrollarnos y como afectan estas acciones en nuestro entorno y la sostenibilidad de nuestras acciones.
 
-Quam possimus adipisci tenetur nihil saepe cum delectus dolores animi dolorem commodi, laborum est accusamus molestiae porro. Dolor ducimus similique, incidunt assumenda et sunt reprehenderit perferendis illum impedit consequuntur deserunt.
-
-Doloremque nam expedita optio repellendus, suscipit, sit veritatis aliquam aspernatur, inventore vero dolorem nobis! Voluptate, sequi eum fugit nam. Sunt aspernatur ut perferendis placeat amet excepturi, nesciunt nihil maiores culpa!
-
-Eos alias maiores perspiciatis voluptatibus, ex distinctio perferendis in voluptatem rem? Facere at, dicta consequatur laborum! Reiciendis nisi similique autem, et, mollitia quos corporis atque velit id adipisci, eius perspiciatis.
+En conclusión podemos decir que el **Desarrollo Humano** es un enfoque vital, que nos lleva a actuar mas consientes de nuestro impacto social, ambiental y personal, guiando nuestras acciones al mejoramiento continuo y equilibrado entre cada una de nuestras dimensiones.

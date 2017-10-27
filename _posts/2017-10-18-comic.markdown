@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Comic de Presentación"
+description: Información de prueba para crear la pagina con la reflexion de la tematica
+date:   2017-10-18
+categories: 
+img: dh-2.jpg
+author: Juan David Gómez Escobar
+---
+
+## Comic en Voki
+
+{% include comic.html %}
