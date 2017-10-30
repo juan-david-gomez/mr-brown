@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Desarrollo Humano en Colombia. Sus condiciones e implicaciones"
-description: Información de prueba para crear la pagina con la reflexion de la tematica
+description: ......
 date:   2017-10-20
 categories: 
-img: dh-2.jpg
+img: dh-5.png
 author: Juan David Gómez Escobar
 ---
 

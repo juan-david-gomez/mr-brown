@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Indicadores básicos del Desarrollo Humano."
-description: Información de prueba para crear la pagina con la reflexion de la tematica
+title:  "Medición e indicadores del Desarrollo Humano"
+description: Lo aprendido y aspectos practicos sobre la medición del Desarrollo Humano
 date:   2017-10-23
 categories: 
 img: dh-2.jpg
@@ -10,25 +10,15 @@ author: Juan David Gómez Escobar
 
 ## LO QUE APRENDÍ/ASIMILÉ
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, fugiat nisi aliquid, maxime cupiditate incidunt voluptates magnam possimus, modi natus vel sequi corporis. Libero animi vel impedit, voluptatem architecto sunt!
+Según el material presentado podemos entender la importancia del Indicador de Desarrollo Humano (IDH), ya que es la materialización del concepto de desarrollo humano, y hacer de este un valor que pueda determinar y guiar las acciones de mejora para un país, región o incluso para un individuo.
 
-Ea voluptatum commodi fugit illum suscipit fugiat amet quisquam nemo, placeat impedit hic, omnis earum beatae voluptates, nostrum inventore accusamus. Ad ab, quae aperiam, et animi aspernatur! Officia pariatur, vel.
+En el intento por definir el IDH las Naciones Unidas se enfrentaron al reto de definir la forma que se tendría para determinar el indicador, dentro de dicho análisis se encontró que este indicador debería estar apoyado de otros indicadores fuente, como el la esperanza de vida promedio, ingreso per capita entre otros, sin embargo debían encontrar los indicadores comunes entre la mayor cantidad de países, de forma que se escogieron una serie de indicadores que se pudieran obtener de casi todos los países y a partir de ellos definir el IDH.
 
-Quam possimus adipisci tenetur nihil saepe cum delectus dolores animi dolorem commodi, laborum est accusamus molestiae porro. Dolor ducimus similique, incidunt assumenda et sunt reprehenderit perferendis illum impedit consequuntur deserunt.
-
-Doloremque nam expedita optio repellendus, suscipit, sit veritatis aliquam aspernatur, inventore vero dolorem nobis! Voluptate, sequi eum fugit nam. Sunt aspernatur ut perferendis placeat amet excepturi, nesciunt nihil maiores culpa!
-
-Eos alias maiores perspiciatis voluptatibus, ex distinctio perferendis in voluptatem rem? Facere at, dicta consequatur laborum! Reiciendis nisi similique autem, et, mollitia quos corporis atque velit id adipisci, eius perspiciatis.
+Esta indicador no es algo fijo y mucho menos estático, es un indicador que busca evolucionar junto a la sociedad y adaptarse año tras año para ser lo mas contextualizado posible, por ejemplo como lo mencionaba en el video propuesto por el contenido del curso, se hace necesario tener en cuenta no solo el promedio de cada indicador fuente, sino que tan desigual estaba siendo, y darle un matiz mas igualitario o equitativo al indicador de cada región.
 
 
 ## APLICACIÓN PRÁCTICA
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, fugiat nisi aliquid, maxime cupiditate incidunt voluptates magnam possimus, modi natus vel sequi corporis. Libero animi vel impedit, voluptatem architecto sunt!
+Las aplicaciones practicas de este indicador son muy importantes ya que es lo que hace que un simple número realmente impacte en las personas y sea una herramienta para mejorar no indice carente de sentido, es así como el IDH es cada vez mas explícito y detallado, lo que permite a los gobiernos enfocar su gestión, pudiendo enfocar sus energías en un indicar que realmente afecta la felicidad de las personas, a diferencia de muchos otros que si bien son importantes no siempre representan un bienestar colectivo como el desarrollo económico e incluso político.
 
-Ea voluptatum commodi fugit illum suscipit fugiat amet quisquam nemo, placeat impedit hic, omnis earum beatae voluptates, nostrum inventore accusamus. Ad ab, quae aperiam, et animi aspernatur! Officia pariatur, vel.
-
-Quam possimus adipisci tenetur nihil saepe cum delectus dolores animi dolorem commodi, laborum est accusamus molestiae porro. Dolor ducimus similique, incidunt assumenda et sunt reprehenderit perferendis illum impedit consequuntur deserunt.
-
-Doloremque nam expedita optio repellendus, suscipit, sit veritatis aliquam aspernatur, inventore vero dolorem nobis! Voluptate, sequi eum fugit nam. Sunt aspernatur ut perferendis placeat amet excepturi, nesciunt nihil maiores culpa!
-
-Eos alias maiores perspiciatis voluptatibus, ex distinctio perferendis in voluptatem rem? Facere at, dicta consequatur laborum! Reiciendis nisi similique autem, et, mollitia quos corporis atque velit id adipisci, eius perspiciatis.
+Podemos concluir entonces que es fundamental el esfuerzo de parte de las entidades encargadas de calcular el IDH ya que entre mas cercano este de la realidad, mayor calidad se verán en las acciones que este indicador pueda fomentar, y es también muy importante la constante atención a este ya que pueden dar un sentido mas humano a toda su gestión y poder dar a las personas un valor que puede impactar en sus vidas.
