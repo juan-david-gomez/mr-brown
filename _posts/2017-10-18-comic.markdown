@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Comic de Presentación"
+title:  "Comic de Desarrollo Humano"
 description: Comic con un historia sobre el Desarrollo Humano
 date:   2017-10-18
 categories: 
@@ -9,4 +9,5 @@ author: Juan David Gómez Escobar
 ---
 
 [Ver Comic](https://Pixton.com/mx/:n7g292n3)
+
 {% include comic.html %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Desarrollo Humano en Colombia. Sus condiciones e implicaciones"
-description: ......
+description: Lo aprendido y aspectos practicos sobre el Desarrollo Humano en Colombia
 date:   2017-10-20
 categories: 
 img: dh-5.png
@@ -10,25 +10,10 @@ author: Juan David Gómez Escobar
 
 ## LO QUE APRENDÍ/ASIMILÉ
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, fugiat nisi aliquid, maxime cupiditate incidunt voluptates magnam possimus, modi natus vel sequi corporis. Libero animi vel impedit, voluptatem architecto sunt!
+Después de conocer diferentes elementos del Desarrollo Humano es momento de contextualizarlo en Colombia, es mucho de lo que se puede analizar de la situación de este país, teniendo en cuenta su historia política, económica y social, sin embargo hay una serie de elementos que podemos destacar de Colombia y es su gran potencial económico apoyandose en la gran cantidad de recursos naturales y su posición estratégica en medio de dos mares, a simple vista podemos pensar en que tiene las condiciones perfectas para que su desarrollo económico sea muy bueno y por ende su nivel de Desarrollo Humano crezca considerablemente, pero viendo la situación actual y los tiempos pasados vemos como se abran grandes brechas sociales, económicas e incluso políticas, y es esta fragmentación la que hace que el Indice de Desarrollo Humano no sea lo esperado por sus condiciones naturales.
 
-Ea voluptatum commodi fugit illum suscipit fugiat amet quisquam nemo, placeat impedit hic, omnis earum beatae voluptates, nostrum inventore accusamus. Ad ab, quae aperiam, et animi aspernatur! Officia pariatur, vel.
-
-Quam possimus adipisci tenetur nihil saepe cum delectus dolores animi dolorem commodi, laborum est accusamus molestiae porro. Dolor ducimus similique, incidunt assumenda et sunt reprehenderit perferendis illum impedit consequuntur deserunt.
-
-Doloremque nam expedita optio repellendus, suscipit, sit veritatis aliquam aspernatur, inventore vero dolorem nobis! Voluptate, sequi eum fugit nam. Sunt aspernatur ut perferendis placeat amet excepturi, nesciunt nihil maiores culpa!
-
-Eos alias maiores perspiciatis voluptatibus, ex distinctio perferendis in voluptatem rem? Facere at, dicta consequatur laborum! Reiciendis nisi similique autem, et, mollitia quos corporis atque velit id adipisci, eius perspiciatis.
-
+La pobreza es algo con lo que se ha luchado incansablemente y a pesar de ver leves mejoras, la problemática no parece ceder ante un país que busca crecer en todas sus dimensiones. Durante los últimos años hemos podido ver como Colombia crece económicamente pero esto en vez de reducir la brecha económica entre clases sociales lo ha aumentado, haciendo que estos esfuerzos no se traduzcan en aumento de las oportunidades para los colombianos.
 
 ## APLICACIÓN PRÁCTICA
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, fugiat nisi aliquid, maxime cupiditate incidunt voluptates magnam possimus, modi natus vel sequi corporis. Libero animi vel impedit, voluptatem architecto sunt!
-
-Ea voluptatum commodi fugit illum suscipit fugiat amet quisquam nemo, placeat impedit hic, omnis earum beatae voluptates, nostrum inventore accusamus. Ad ab, quae aperiam, et animi aspernatur! Officia pariatur, vel.
-
-Quam possimus adipisci tenetur nihil saepe cum delectus dolores animi dolorem commodi, laborum est accusamus molestiae porro. Dolor ducimus similique, incidunt assumenda et sunt reprehenderit perferendis illum impedit consequuntur deserunt.
-
-Doloremque nam expedita optio repellendus, suscipit, sit veritatis aliquam aspernatur, inventore vero dolorem nobis! Voluptate, sequi eum fugit nam. Sunt aspernatur ut perferendis placeat amet excepturi, nesciunt nihil maiores culpa!
-
-Eos alias maiores perspiciatis voluptatibus, ex distinctio perferendis in voluptatem rem? Facere at, dicta consequatur laborum! Reiciendis nisi similique autem, et, mollitia quos corporis atque velit id adipisci, eius perspiciatis.
+Hacer una análisis de la situación de un país desde una mirada de Desarrollo Humano proporciona una visión muy diferente ya que va mas halla del ingreso económico y permite entre otras cosas ver las desigualdades en el ingreso por persona y no solo un ingreso bruto, en el caso de Colombia podemos ver como aumenta su producción interna sin embargo al mirar realmente las distancias entre quienes reciben estos ingresos vemos que Colombia en vez de buscar crecer sus ingresos netos podría mejorar la distribución de dichos ingresos, esto quizá no aumenten el balance general, sin embargo reduce la brecha entre los mas pobres y los mas ricos y esto aumentaría el Indice de Desarrollo Humano y a la practica aumentaría las oportunidades de mas colombianos mejorando la calidad de vida general del país.

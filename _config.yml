@@ -1,5 +1,5 @@
-title: Mr.Brown
-description: Mr.Brown is a responsive jekyll theme
+title: Juan David Blog
+description: Blog Juan David Gomez
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 baseurl: "/web" # the subpath of your site, e.g. /blog

@@ -2,7 +2,7 @@
 layout: post
 title:  "Avatar de Presentación"
 description: Avatar de presentación del blog
-date:   2017-10-19
+date:   2017-10-26
 categories: 
 img: avatar.jpg
 author: Juan David Gómez Escobar
