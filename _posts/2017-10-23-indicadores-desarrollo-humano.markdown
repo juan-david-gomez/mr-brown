@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Medición e indicadores del Desarrollo Humano"
-description: Lo aprendido y aspectos practicos sobre la medición del Desarrollo Humano
+description: Lo aprendido y aspectos prácticos sobre la medición del Desarrollo Humano
 date:   2017-10-23
 categories: 
 img: dh-2.jpg

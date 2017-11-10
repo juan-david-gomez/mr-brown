@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Desarrollo humano integral"
-description: Lo aprendido y aspectos practicos sobre el Desarrollo Humano Integral
+description: Lo aprendido y aspectos prácticos sobre el Desarrollo Humano Integral
 date:   2017-10-21
 categories: 
 img: dh-4.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Desarrollo Humano Conceptualización"
-description: Lo aprendido y aspectos practicos sobre el concepto de Desarrollo Humano
+description: Lo aprendido y aspectos prácticos sobre el concepto de Desarrollo Humano
 date:   2017-10-25
 categories: 
 img: dh-1.jpg

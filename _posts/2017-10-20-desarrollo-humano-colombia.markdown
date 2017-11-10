@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Desarrollo Humano en Colombia. Sus condiciones e implicaciones"
-description: Lo aprendido y aspectos practicos sobre el Desarrollo Humano en Colombia
+description: Lo aprendido y aspectos prácticos sobre el Desarrollo Humano en Colombia
 date:   2017-10-20
 categories: 
 img: dh-5.png

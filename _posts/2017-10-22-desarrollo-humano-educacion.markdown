@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Desarrollo Humano y educación"
-description: Lo aprendido y aspectos practicos sobre el Desarrollo Humano y la Educación
+description: Lo aprendido y aspectos prácticos sobre el Desarrollo Humano y la Educación
 date:   2017-10-22
 categories: 
 img: dh-3.jpg

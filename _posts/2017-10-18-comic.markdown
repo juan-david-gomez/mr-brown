@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Comic de Desarrollo Humano"
-description: Comic con un historia sobre el Desarrollo Humano
+title:  "Cómic de Desarrollo Humano"
+description: Cómic con un historia sobre el Desarrollo Humano
 date:   2017-10-18
 categories: 
 img: dh-6.png
