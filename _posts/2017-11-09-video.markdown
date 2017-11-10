@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Video sobre la Cultura"
+description: Video sobre la cultura entre los profesionales del entorno digital
+date:   2017-11-09
+categories: 
+img: digital.jpg
+author: Juan David Gómez Escobar
+---
+
+{% include cultura.html %}
